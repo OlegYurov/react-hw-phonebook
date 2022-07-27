@@ -1,4 +1,4 @@
-import  { Component } from 'react';
+import  React, { Component } from 'react';
 import FormBtn from '../FormBtn/FormBtn'
 import Input from '../Input/Input'
 import { v4 as uuidv4 } from 'uuid';

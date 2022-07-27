@@ -1,4 +1,4 @@
-import { Component } from 'react'
+import React, { Component } from 'react'
 import Form from './components/Form/Form'
 import Title from './components/Title/Title'
 import RenderUsersList from './components/RenderUsersList/RenderUsersList'
